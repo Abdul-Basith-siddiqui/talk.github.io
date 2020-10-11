@@ -1,0 +1,22 @@
+body{
+    background: url(https://i.imgur.com/r0cWPwi.gif);
+}
+.center {
+      font-size: large;
+    width: 200px;
+    height: 75px;
+    color:rgba(116, 32, 172, 0.4);
+    background: rgba(216, 139, 131, 0.6);
+    
+}
+
+.red{
+
+       display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 200px;
+    
+
+
+}
