@@ -9,7 +9,7 @@ const recognition = new SpeechRecognition();
 
 
 recognition.onstart = function() {
-  //  document.write("now speak");
+   document.write("now speak");
     console.log('now you can speak');
 };
 
